@@ -1,4 +1,4 @@
-👋 My name is Gephtin Bit. I am Congolese 🇨🇩 and passionate about technology, computer science, and application development.
+My name is Gephtin Bit. I am Congolese 🇨🇩 and passionate about technology, computer science, and application development.
 
 💻 My first project is FinanceGeph, an application designed to help people manage their personal finances.
 
